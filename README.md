@@ -1,4 +1,5 @@
-# Olá, eu sou a Lucii 👋
+# Olá, eu sou a Lucii    <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/710376c0-ad57-4f0d-83a6-3035f4453117" /><img width="45" height="60" alt="image" src="https://github.com/user-attachments/assets/ed2b986b-5d8f-40c7-b0f2-cac3cd8cc497" />
+
 
 ### 🚀 Sobre mim
 - 💼 Atualmente trabalhando com **vendas**.
