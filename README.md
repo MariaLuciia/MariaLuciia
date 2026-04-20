@@ -25,7 +25,7 @@ Desenvolvi uma solução digital para facilitar o registro de infrações de tr�
 * **Tecnologias:** HTML5, CSS3 e JavaScript.
 * **Status:** Protótipo funcional (MVP) concluído.
 
-🚀 [Detran - Denúncia Cidadã](https://marialuciia.github.io/detrans-cidadao/)
+🚀 [Detran - Denúncia Cidadã](https://github.com/MariaLuciia/detran-cidadao/)
 
-> *Nota: O código-fonte deste projeto é mantido em repositório privado por questões de propriedade intelectual.*
+
 
