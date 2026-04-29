@@ -11,7 +11,9 @@
 
 ### 🛠 Linguagens e Tecnologias
 
-<img src="https://github.com/user-attachments/assets/4b5650f2-706a-49ac-8461-ba1a9d36124e" width="40">  <img src="https://github.com/user-attachments/assets/00fd0f16-dedc-4103-8a20-8b4ef2dbba4b" width="40">  <img src="https://github.com/user-attachments/assets/10c96e59-8279-425c-936a-cc5d512d12f1" width="40"> 
+<img src="https://github.com/user-attachments/assets/4b5650f2-706a-49ac-8461-ba1a9d36124e" width="50">  <img src="https://github.com/user-attachments/assets/00fd0f16-dedc-4103-8a20-8b4ef2dbba4b" width="50">  <img src="https://github.com/user-attachments/assets/10c96e59-8279-425c-936a-cc5d512d12f1" width="50"> 
+<img src="https://github.com/user-attachments/assets/6b71b1db-0925-4fd1-adc8-71133d77eff1" width="50">
+
 
 
 ---
